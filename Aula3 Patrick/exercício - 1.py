@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 1 — Elegibilidade para Votação"""
+"""Elegibilidade para Votação"""
 
  nascimento = int(input("Digite a sua data de nascimento: \t "))
  ano = int(input("Digite o ano atual: \t "))

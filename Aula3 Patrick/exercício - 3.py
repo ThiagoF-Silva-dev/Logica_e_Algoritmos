@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 3 — Carteira de Motorista"""
+"""Carteira de Motorista"""
 
     idade = int(input(f"Digite sua idade: \t"))
 

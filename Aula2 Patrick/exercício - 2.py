@@ -1,6 +1,6 @@
 def main ():
 
-"""Exercício 2 — Limite de peso de uma caixa"""
+"""Limite de peso de uma caixa"""
 
     numero1 = float(input("Digite o valor do primeiro numéro: \t"))
     numero2 = float(input("Digite o valor do segundo numéro: \t"))

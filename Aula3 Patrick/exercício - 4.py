@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 4 — Positivo, Negativo, Zero, Par ou Ímpar"""
+"""Positivo, Negativo, Zero, Par ou Ímpar"""
 
     numeInt = int(input("Digite um número inteiro: \t "))
 

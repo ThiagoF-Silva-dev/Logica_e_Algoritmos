@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 6 — Validação de Usuário e Senha"""
+"""Validação de Usuário e Senha"""
 
     usuário = str(input(f"Digite o nome de usuário: \t"))
     senha = int(input(f"Digite a Senha: \t"))

@@ -1,6 +1,6 @@
 def main ():
 
-"""Exercício 3 — Estoque da farmácia"""
+"""Estoque da farmácia"""
 
     unidades = int(input("Digite o número de unidades vendidas: \t"))
     estoque = 100-unidades

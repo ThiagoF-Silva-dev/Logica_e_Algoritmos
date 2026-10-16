@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 2 — Número Positivo ou Negativo"""
+"""Número Positivo ou Negativo"""
 
    numero= int(input("Digite um número: \t"))
 

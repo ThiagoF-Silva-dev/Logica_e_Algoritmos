@@ -1,6 +1,6 @@
 def main():
 
-"""Exercício 5 — Par/Ímpar e Comparação de Dois Números"""
+"""Par/Ímpar e Comparação de Dois Números"""
 
     numero = int(input("Digite um numero inteiro: \t"))
 

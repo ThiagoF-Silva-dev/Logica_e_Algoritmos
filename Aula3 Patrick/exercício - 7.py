@@ -1,4 +1,7 @@
 def main():
+
+    """Situação do Aluno"""
+
     media = float(input("Digite a média do aluno: \t"))
     faltas = int(input("Digite a quantidade de faltas: \t"))
 

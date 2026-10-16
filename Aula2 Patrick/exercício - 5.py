@@ -1,6 +1,6 @@
 def main ():
 
-"""Exercício 5 — Aprovação do aluno"""
+"""Aprovação do aluno"""
 
 nota = float(input("Digite sua nota: \t "))
 frequencia = int(input("Entre com a quantidade de dias com falta: \t"))
