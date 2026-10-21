@@ -1,5 +1,7 @@
 def main():
 
+    """Tabuada"""
+
     numero = int(input("Digite um número inteiro para ver a tabuada completa: \t"))
     contador = 0
     while contador <= 10:
