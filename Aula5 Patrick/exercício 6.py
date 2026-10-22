@@ -1,4 +1,5 @@
 def main ():
+
   numeros = []
 
   for numero in range(1,11):
@@ -19,11 +20,6 @@ def main ():
   print(f"Todos:{numeros}")
   print(f"Pares:{pares} ({len(pares)} números)")
   print(f"Ímpares:{impares} ({len(pares)} números)")
-
-
-
-
-
 
 if __name__=="__main__":
     main()
