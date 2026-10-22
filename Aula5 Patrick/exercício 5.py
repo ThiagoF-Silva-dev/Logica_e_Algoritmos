@@ -1,5 +1,7 @@
 def main():
 
+    """Notas e conceitos"""
+
    alunos = ["Bruno","Thiago","Ana","Amanda","Julia"]
    notas = []
 
