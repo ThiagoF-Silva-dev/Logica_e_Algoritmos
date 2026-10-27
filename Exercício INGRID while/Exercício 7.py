@@ -12,9 +12,5 @@ def main():
     convidados.pop()
     print(f"Convidados:{convidados}\t")
 
-
-
-
-
 if __name__ == "__main__":
     main()
